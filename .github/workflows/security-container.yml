@@ -1,0 +1,53 @@
+name: Security and container verification
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  history-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Scan reachable Git history with Gitleaks
+        run: >-
+          docker run --rm
+          -e GIT_CONFIG_COUNT=1
+          -e GIT_CONFIG_KEY_0=safe.directory
+          -e GIT_CONFIG_VALUE_0=/repo
+          -v "$PWD:/repo:ro"
+          ghcr.io/gitleaks/gitleaks:v8.24.2
+          git /repo --log-opts=--all --redact --no-banner
+  container:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build and start isolated local API
+        run: docker compose up --build --wait --wait-timeout 180
+      - name: Verify HTTP contract and non-root runtime
+        run: |
+          python - <<'PY'
+          import json, urllib.request, urllib.error, subprocess
+          with urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=5) as response:
+              assert json.load(response) == {'status': 'ok', 'rows': 17379}
+          with urllib.request.urlopen('http://127.0.0.1:8080/daily?start=2011-01-01&end=2011-01-01', timeout=5) as response:
+              data = json.load(response)['data']
+              assert len(data) == 1 and data[0]['date'] == '2011-01-01'
+          try:
+              urllib.request.urlopen('http://127.0.0.1:8080/daily?start=invalid', timeout=5)
+              raise AssertionError('Invalid input returned success')
+          except urllib.error.HTTPError as error:
+              assert error.code == 400
+          subprocess.run(['docker', 'compose', 'exec', '-T', 'mobility', 'python', '-c', 'import os; assert os.getuid() == 10001'], check=True)
+          print('Container health, date query, invalid-input response, and non-root UID verified')
+          PY
+      - name: Run system tests inside built image
+        run: docker compose exec -T mobility python -m unittest -v
+      - name: Inspect logs on failure
+        if: failure()
+        run: docker compose logs
+      - name: Stop local containers
+        if: always()
+        run: docker compose down

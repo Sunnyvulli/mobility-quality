@@ -1,0 +1,129 @@
+{
+  "source_repository": "Sunnyvulli/Sunnyvulli.github.io",
+  "source_commit": "7505904e5b61907f5525de3a4046138da2025eaf",
+  "source_prefix": "projects/mobility-quality",
+  "history": "https://github.com/Sunnyvulli/Sunnyvulli.github.io/commits/main/projects/mobility-quality",
+  "scope": "Original code/data/test/result files copied byte-for-byte. README replaced, contributing roadmap corrected, and root setup/CI/Compose paths adapted. Existing portfolio history and compatibility paths are retained; no history rewrite or reconstructed authorship dates.",
+  "files": [
+    {
+      "path": ".dockerignore",
+      "sha256": "3196bd52d24a783cd1f08ae94f395f36f671d69e7dc04e27754f23cab3b7ec50",
+      "source_git_blob": "289ffaead045f1a914a14dd1f7092aec1298b7d4"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "5fd8c1822591c05843bc792a37371f6a24c468b0aebe53c558cc35ae3453d9df",
+      "source_git_blob": "508c13d1406f7bf6fe7b41af34400f2167aefdec"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "31fbb35b7556a5a905cef94a0b991cd49e0b18a4fdbf681851fedf3949355dda",
+      "source_git_blob": "d67ab7b8f91c69f6160ea74ed254dccb354b81a9"
+    },
+    {
+      "path": "Dockerfile",
+      "sha256": "9d6266ffd74aee4aca951f333688a2e87686805b68ba4a89023470d0d67887ab",
+      "source_git_blob": "8e89d57016b5411539b90815b062f9c54c021f55"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "1770d551ead422b30f9a5a0801ced304869135f019e7fc0787ebc80a2939d935",
+      "source_git_blob": "4037b80652f5e1b49d5476b7c9d10cc4aa2d988a"
+    },
+    {
+      "path": "OPERATIONS.md",
+      "sha256": "257558e7022f5bee282feae8c12f96c87c8c3c6d1469ab9a3f4b476ef8ade021",
+      "source_git_blob": "50d606f6f1fdfdaabd86fd0fcbd9a680af53e8f2"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ba3813dcea80d99f8cae66459358e8d31660ded95517197bcc07cea7bca39c1a",
+      "source_git_blob": "194dc5911bb6e13582c1c85ef6ceaa175fff1118"
+    },
+    {
+      "path": "api.py",
+      "sha256": "53516c53f3d56f205c6bd1c6115e81378f599ac8a7668675232914c4c517af1d",
+      "source_git_blob": "07a7564a37cfff116a7faa856c644a43eeed382e"
+    },
+    {
+      "path": "data/SOURCE.md",
+      "sha256": "80949af22f89ac2bde8303b2441f79a06018952946a42f7b4406e1a2e3b5b1bc",
+      "source_git_blob": "323186f0d57a861fb1529bd71ba7b8e9cce068bb"
+    },
+    {
+      "path": "data/hour.csv",
+      "sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+      "source_git_blob": "1592203bdf41d855ec8d254524df32e52cc2a11a"
+    },
+    {
+      "path": "evaluate.py",
+      "sha256": "4c2b9414e2ab40a40826be11c8497c7bc6d2f64e89e70270c9b3ab87ec0c8a23",
+      "source_git_blob": "45ed684839582e61ae870a3f1c520e5333387550"
+    },
+    {
+      "path": "pipeline.py",
+      "sha256": "ba838cd8a2186d12f1457c22bdcfc8aebd5d18938109d358c8f8758d2f135bf7",
+      "source_git_blob": "5b88a8441783f8e18819f146e71168cb45f4391c"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "95f3be5f14b1c5df3429e677d5d4b67fbef46373ddd55d2ee791e1ee4b8e2e62",
+      "source_git_blob": "b5ca1f751eb26ded74855ce8ad4b496dae0643cd"
+    },
+    {
+      "path": "results/evaluation.json",
+      "sha256": "bafb6fb43372327d2616462538e8ef269b079af5c3531aff6ecbad0964062320",
+      "source_git_blob": "3493016b6478a486c4a17fc602dc7f6c69d5a824"
+    },
+    {
+      "path": "results/fault-summary.csv",
+      "sha256": "867c5734aaefc5d0d64fef8e8ce1c9d6a3a0b8ef64b0f197cffbb613d61299c7",
+      "source_git_blob": "719636a616d3d2a982f4db2ee0a165495090dc1a"
+    },
+    {
+      "path": "results/model-summary.csv",
+      "sha256": "a7da606e045d64396d49d03226f629136742d152332423f8daed3721c56e57c5",
+      "source_git_blob": "ab5f51200ed1955258c1a99128b07706dc88a620"
+    },
+    {
+      "path": "results/pipeline.json",
+      "sha256": "49f2465cbe7881cc36408a1feb392616eb9cfd0f06e96e455e961352a54f8a14",
+      "source_git_blob": "9778c977bed4c18ca3a10958160506c78a0da626"
+    },
+    {
+      "path": "results/temporal-daily-errors.csv",
+      "sha256": "f68d6cc5721b05c9746d3140cde9d5ac9cc7c209a5f21b8f2313e10d63fc1891",
+      "source_git_blob": "3afa8f7652ebc17eb9426b2299e95a8fce8dea33"
+    },
+    {
+      "path": "results/temporal-evaluation.json",
+      "sha256": "84f2476a02e8f5234220cf31bd6157cd347a977993158b71d77aaf0db6e4165b",
+      "source_git_blob": "8625b573e1e9ef35b5a2edc2a928e0c1c4804785"
+    },
+    {
+      "path": "results/workload.json",
+      "sha256": "326cd0ded42af63675467cd0c245b980341f02317f7aad9acc7463cc9d0c3bb3",
+      "source_git_blob": "72f8601359b7d17ccfa40fde8deb90ceeadfccf6"
+    },
+    {
+      "path": "temporal.py",
+      "sha256": "c43478c355efbd6eff8d045b27d7d48d1e100a16eaca4ea48555918726948fd3",
+      "source_git_blob": "1d691b9bf773f4557f562d61c8440648a05b820c"
+    },
+    {
+      "path": "test_system.py",
+      "sha256": "e7e2b4da954259bc5049aad1ab523f8132dfd463c9146b2efb74512d170ba62c",
+      "source_git_blob": "816b1f311bb96abe6f435af1ce35ae24906bcaa5"
+    },
+    {
+      "path": "test_temporal.py",
+      "sha256": "c3f82eded020e6c0d45022c55ef978cd4cfec46c389a7c729506b0f0074cac4b",
+      "source_git_blob": "e8a77ef677c155bde18b32452a8c4dad81d0d2ab"
+    },
+    {
+      "path": "workload.py",
+      "sha256": "9f93ed86c01feb102fa441669e68ec63669285d7b67be8fc44142609cb37d631",
+      "source_git_blob": "4d2ff7416178d71d7b960d9031b9fcf0cab3e7af"
+    }
+  ]
+}

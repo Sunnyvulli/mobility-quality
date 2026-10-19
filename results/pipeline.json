@@ -1,0 +1,3669 @@
+{
+  "source_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "input_rows": 17379,
+  "accepted_rows": 17379,
+  "rejected_rows": 0,
+  "reason_counts": {},
+  "quarantine": [],
+  "observed_days": 731,
+  "missing_hours_in_observed_days": 165,
+  "rentals": 3292679,
+  "daily": [
+    {
+      "date": "2011-01-01",
+      "observed_hours": 24,
+      "rentals": 985
+    },
+    {
+      "date": "2011-01-02",
+      "observed_hours": 23,
+      "rentals": 801
+    },
+    {
+      "date": "2011-01-03",
+      "observed_hours": 22,
+      "rentals": 1349
+    },
+    {
+      "date": "2011-01-04",
+      "observed_hours": 23,
+      "rentals": 1562
+    },
+    {
+      "date": "2011-01-05",
+      "observed_hours": 23,
+      "rentals": 1600
+    },
+    {
+      "date": "2011-01-06",
+      "observed_hours": 23,
+      "rentals": 1606
+    },
+    {
+      "date": "2011-01-07",
+      "observed_hours": 23,
+      "rentals": 1510
+    },
+    {
+      "date": "2011-01-08",
+      "observed_hours": 24,
+      "rentals": 959
+    },
+    {
+      "date": "2011-01-09",
+      "observed_hours": 24,
+      "rentals": 822
+    },
+    {
+      "date": "2011-01-10",
+      "observed_hours": 24,
+      "rentals": 1321
+    },
+    {
+      "date": "2011-01-11",
+      "observed_hours": 22,
+      "rentals": 1263
+    },
+    {
+      "date": "2011-01-12",
+      "observed_hours": 22,
+      "rentals": 1162
+    },
+    {
+      "date": "2011-01-13",
+      "observed_hours": 24,
+      "rentals": 1406
+    },
+    {
+      "date": "2011-01-14",
+      "observed_hours": 23,
+      "rentals": 1421
+    },
+    {
+      "date": "2011-01-15",
+      "observed_hours": 24,
+      "rentals": 1248
+    },
+    {
+      "date": "2011-01-16",
+      "observed_hours": 24,
+      "rentals": 1204
+    },
+    {
+      "date": "2011-01-17",
+      "observed_hours": 24,
+      "rentals": 1000
+    },
+    {
+      "date": "2011-01-18",
+      "observed_hours": 12,
+      "rentals": 683
+    },
+    {
+      "date": "2011-01-19",
+      "observed_hours": 23,
+      "rentals": 1650
+    },
+    {
+      "date": "2011-01-20",
+      "observed_hours": 24,
+      "rentals": 1927
+    },
+    {
+      "date": "2011-01-21",
+      "observed_hours": 24,
+      "rentals": 1543
+    },
+    {
+      "date": "2011-01-22",
+      "observed_hours": 23,
+      "rentals": 981
+    },
+    {
+      "date": "2011-01-23",
+      "observed_hours": 23,
+      "rentals": 986
+    },
+    {
+      "date": "2011-01-24",
+      "observed_hours": 23,
+      "rentals": 1416
+    },
+    {
+      "date": "2011-01-25",
+      "observed_hours": 23,
+      "rentals": 1985
+    },
+    {
+      "date": "2011-01-26",
+      "observed_hours": 16,
+      "rentals": 506
+    },
+    {
+      "date": "2011-01-27",
+      "observed_hours": 8,
+      "rentals": 431
+    },
+    {
+      "date": "2011-01-28",
+      "observed_hours": 23,
+      "rentals": 1167
+    },
+    {
+      "date": "2011-01-29",
+      "observed_hours": 23,
+      "rentals": 1098
+    },
+    {
+      "date": "2011-01-30",
+      "observed_hours": 23,
+      "rentals": 1096
+    },
+    {
+      "date": "2011-01-31",
+      "observed_hours": 24,
+      "rentals": 1501
+    },
+    {
+      "date": "2011-02-01",
+      "observed_hours": 23,
+      "rentals": 1360
+    },
+    {
+      "date": "2011-02-02",
+      "observed_hours": 24,
+      "rentals": 1526
+    },
+    {
+      "date": "2011-02-03",
+      "observed_hours": 23,
+      "rentals": 1550
+    },
+    {
+      "date": "2011-02-04",
+      "observed_hours": 23,
+      "rentals": 1708
+    },
+    {
+      "date": "2011-02-05",
+      "observed_hours": 24,
+      "rentals": 1005
+    },
+    {
+      "date": "2011-02-06",
+      "observed_hours": 24,
+      "rentals": 1623
+    },
+    {
+      "date": "2011-02-07",
+      "observed_hours": 24,
+      "rentals": 1712
+    },
+    {
+      "date": "2011-02-08",
+      "observed_hours": 24,
+      "rentals": 1530
+    },
+    {
+      "date": "2011-02-09",
+      "observed_hours": 23,
+      "rentals": 1605
+    },
+    {
+      "date": "2011-02-10",
+      "observed_hours": 23,
+      "rentals": 1538
+    },
+    {
+      "date": "2011-02-11",
+      "observed_hours": 22,
+      "rentals": 1746
+    },
+    {
+      "date": "2011-02-12",
+      "observed_hours": 24,
+      "rentals": 1472
+    },
+    {
+      "date": "2011-02-13",
+      "observed_hours": 23,
+      "rentals": 1589
+    },
+    {
+      "date": "2011-02-14",
+      "observed_hours": 24,
+      "rentals": 1913
+    },
+    {
+      "date": "2011-02-15",
+      "observed_hours": 23,
+      "rentals": 1815
+    },
+    {
+      "date": "2011-02-16",
+      "observed_hours": 23,
+      "rentals": 2115
+    },
+    {
+      "date": "2011-02-17",
+      "observed_hours": 24,
+      "rentals": 2475
+    },
+    {
+      "date": "2011-02-18",
+      "observed_hours": 24,
+      "rentals": 2927
+    },
+    {
+      "date": "2011-02-19",
+      "observed_hours": 24,
+      "rentals": 1635
+    },
+    {
+      "date": "2011-02-20",
+      "observed_hours": 23,
+      "rentals": 1812
+    },
+    {
+      "date": "2011-02-21",
+      "observed_hours": 24,
+      "rentals": 1107
+    },
+    {
+      "date": "2011-02-22",
+      "observed_hours": 18,
+      "rentals": 1450
+    },
+    {
+      "date": "2011-02-23",
+      "observed_hours": 23,
+      "rentals": 1917
+    },
+    {
+      "date": "2011-02-24",
+      "observed_hours": 23,
+      "rentals": 1807
+    },
+    {
+      "date": "2011-02-25",
+      "observed_hours": 23,
+      "rentals": 1461
+    },
+    {
+      "date": "2011-02-26",
+      "observed_hours": 24,
+      "rentals": 1969
+    },
+    {
+      "date": "2011-02-27",
+      "observed_hours": 23,
+      "rentals": 2402
+    },
+    {
+      "date": "2011-02-28",
+      "observed_hours": 22,
+      "rentals": 1446
+    },
+    {
+      "date": "2011-03-01",
+      "observed_hours": 24,
+      "rentals": 1851
+    },
+    {
+      "date": "2011-03-02",
+      "observed_hours": 24,
+      "rentals": 2134
+    },
+    {
+      "date": "2011-03-03",
+      "observed_hours": 24,
+      "rentals": 1685
+    },
+    {
+      "date": "2011-03-04",
+      "observed_hours": 24,
+      "rentals": 1944
+    },
+    {
+      "date": "2011-03-05",
+      "observed_hours": 24,
+      "rentals": 2077
+    },
+    {
+      "date": "2011-03-06",
+      "observed_hours": 23,
+      "rentals": 605
+    },
+    {
+      "date": "2011-03-07",
+      "observed_hours": 23,
+      "rentals": 1872
+    },
+    {
+      "date": "2011-03-08",
+      "observed_hours": 24,
+      "rentals": 2133
+    },
+    {
+      "date": "2011-03-09",
+      "observed_hours": 24,
+      "rentals": 1891
+    },
+    {
+      "date": "2011-03-10",
+      "observed_hours": 22,
+      "rentals": 623
+    },
+    {
+      "date": "2011-03-11",
+      "observed_hours": 23,
+      "rentals": 1977
+    },
+    {
+      "date": "2011-03-12",
+      "observed_hours": 24,
+      "rentals": 2132
+    },
+    {
+      "date": "2011-03-13",
+      "observed_hours": 23,
+      "rentals": 2417
+    },
+    {
+      "date": "2011-03-14",
+      "observed_hours": 23,
+      "rentals": 2046
+    },
+    {
+      "date": "2011-03-15",
+      "observed_hours": 23,
+      "rentals": 2056
+    },
+    {
+      "date": "2011-03-16",
+      "observed_hours": 23,
+      "rentals": 2192
+    },
+    {
+      "date": "2011-03-17",
+      "observed_hours": 24,
+      "rentals": 2744
+    },
+    {
+      "date": "2011-03-18",
+      "observed_hours": 23,
+      "rentals": 3239
+    },
+    {
+      "date": "2011-03-19",
+      "observed_hours": 24,
+      "rentals": 3117
+    },
+    {
+      "date": "2011-03-20",
+      "observed_hours": 24,
+      "rentals": 2471
+    },
+    {
+      "date": "2011-03-21",
+      "observed_hours": 23,
+      "rentals": 2077
+    },
+    {
+      "date": "2011-03-22",
+      "observed_hours": 24,
+      "rentals": 2703
+    },
+    {
+      "date": "2011-03-23",
+      "observed_hours": 23,
+      "rentals": 2121
+    },
+    {
+      "date": "2011-03-24",
+      "observed_hours": 24,
+      "rentals": 1865
+    },
+    {
+      "date": "2011-03-25",
+      "observed_hours": 24,
+      "rentals": 2210
+    },
+    {
+      "date": "2011-03-26",
+      "observed_hours": 24,
+      "rentals": 2496
+    },
+    {
+      "date": "2011-03-27",
+      "observed_hours": 23,
+      "rentals": 1693
+    },
+    {
+      "date": "2011-03-28",
+      "observed_hours": 23,
+      "rentals": 2028
+    },
+    {
+      "date": "2011-03-29",
+      "observed_hours": 24,
+      "rentals": 2425
+    },
+    {
+      "date": "2011-03-30",
+      "observed_hours": 24,
+      "rentals": 1536
+    },
+    {
+      "date": "2011-03-31",
+      "observed_hours": 24,
+      "rentals": 1685
+    },
+    {
+      "date": "2011-04-01",
+      "observed_hours": 24,
+      "rentals": 2227
+    },
+    {
+      "date": "2011-04-02",
+      "observed_hours": 24,
+      "rentals": 2252
+    },
+    {
+      "date": "2011-04-03",
+      "observed_hours": 24,
+      "rentals": 3249
+    },
+    {
+      "date": "2011-04-04",
+      "observed_hours": 24,
+      "rentals": 3115
+    },
+    {
+      "date": "2011-04-05",
+      "observed_hours": 24,
+      "rentals": 1795
+    },
+    {
+      "date": "2011-04-06",
+      "observed_hours": 24,
+      "rentals": 2808
+    },
+    {
+      "date": "2011-04-07",
+      "observed_hours": 24,
+      "rentals": 3141
+    },
+    {
+      "date": "2011-04-08",
+      "observed_hours": 24,
+      "rentals": 1471
+    },
+    {
+      "date": "2011-04-09",
+      "observed_hours": 24,
+      "rentals": 2455
+    },
+    {
+      "date": "2011-04-10",
+      "observed_hours": 24,
+      "rentals": 2895
+    },
+    {
+      "date": "2011-04-11",
+      "observed_hours": 23,
+      "rentals": 3348
+    },
+    {
+      "date": "2011-04-12",
+      "observed_hours": 24,
+      "rentals": 2034
+    },
+    {
+      "date": "2011-04-13",
+      "observed_hours": 24,
+      "rentals": 2162
+    },
+    {
+      "date": "2011-04-14",
+      "observed_hours": 24,
+      "rentals": 3267
+    },
+    {
+      "date": "2011-04-15",
+      "observed_hours": 24,
+      "rentals": 3126
+    },
+    {
+      "date": "2011-04-16",
+      "observed_hours": 24,
+      "rentals": 795
+    },
+    {
+      "date": "2011-04-17",
+      "observed_hours": 24,
+      "rentals": 3744
+    },
+    {
+      "date": "2011-04-18",
+      "observed_hours": 24,
+      "rentals": 3429
+    },
+    {
+      "date": "2011-04-19",
+      "observed_hours": 24,
+      "rentals": 3204
+    },
+    {
+      "date": "2011-04-20",
+      "observed_hours": 24,
+      "rentals": 3944
+    },
+    {
+      "date": "2011-04-21",
+      "observed_hours": 24,
+      "rentals": 4189
+    },
+    {
+      "date": "2011-04-22",
+      "observed_hours": 24,
+      "rentals": 1683
+    },
+    {
+      "date": "2011-04-23",
+      "observed_hours": 24,
+      "rentals": 4036
+    },
+    {
+      "date": "2011-04-24",
+      "observed_hours": 24,
+      "rentals": 4191
+    },
+    {
+      "date": "2011-04-25",
+      "observed_hours": 24,
+      "rentals": 4073
+    },
+    {
+      "date": "2011-04-26",
+      "observed_hours": 24,
+      "rentals": 4400
+    },
+    {
+      "date": "2011-04-27",
+      "observed_hours": 24,
+      "rentals": 3872
+    },
+    {
+      "date": "2011-04-28",
+      "observed_hours": 24,
+      "rentals": 4058
+    },
+    {
+      "date": "2011-04-29",
+      "observed_hours": 24,
+      "rentals": 4595
+    },
+    {
+      "date": "2011-04-30",
+      "observed_hours": 24,
+      "rentals": 5312
+    },
+    {
+      "date": "2011-05-01",
+      "observed_hours": 24,
+      "rentals": 3351
+    },
+    {
+      "date": "2011-05-02",
+      "observed_hours": 24,
+      "rentals": 4401
+    },
+    {
+      "date": "2011-05-03",
+      "observed_hours": 24,
+      "rentals": 4451
+    },
+    {
+      "date": "2011-05-04",
+      "observed_hours": 24,
+      "rentals": 2633
+    },
+    {
+      "date": "2011-05-05",
+      "observed_hours": 24,
+      "rentals": 4433
+    },
+    {
+      "date": "2011-05-06",
+      "observed_hours": 24,
+      "rentals": 4608
+    },
+    {
+      "date": "2011-05-07",
+      "observed_hours": 24,
+      "rentals": 4714
+    },
+    {
+      "date": "2011-05-08",
+      "observed_hours": 24,
+      "rentals": 4333
+    },
+    {
+      "date": "2011-05-09",
+      "observed_hours": 24,
+      "rentals": 4362
+    },
+    {
+      "date": "2011-05-10",
+      "observed_hours": 24,
+      "rentals": 4803
+    },
+    {
+      "date": "2011-05-11",
+      "observed_hours": 24,
+      "rentals": 4182
+    },
+    {
+      "date": "2011-05-12",
+      "observed_hours": 24,
+      "rentals": 4864
+    },
+    {
+      "date": "2011-05-13",
+      "observed_hours": 24,
+      "rentals": 4105
+    },
+    {
+      "date": "2011-05-14",
+      "observed_hours": 24,
+      "rentals": 3409
+    },
+    {
+      "date": "2011-05-15",
+      "observed_hours": 24,
+      "rentals": 4553
+    },
+    {
+      "date": "2011-05-16",
+      "observed_hours": 24,
+      "rentals": 3958
+    },
+    {
+      "date": "2011-05-17",
+      "observed_hours": 24,
+      "rentals": 4123
+    },
+    {
+      "date": "2011-05-18",
+      "observed_hours": 24,
+      "rentals": 3855
+    },
+    {
+      "date": "2011-05-19",
+      "observed_hours": 24,
+      "rentals": 4575
+    },
+    {
+      "date": "2011-05-20",
+      "observed_hours": 24,
+      "rentals": 4917
+    },
+    {
+      "date": "2011-05-21",
+      "observed_hours": 24,
+      "rentals": 5805
+    },
+    {
+      "date": "2011-05-22",
+      "observed_hours": 24,
+      "rentals": 4660
+    },
+    {
+      "date": "2011-05-23",
+      "observed_hours": 24,
+      "rentals": 4274
+    },
+    {
+      "date": "2011-05-24",
+      "observed_hours": 24,
+      "rentals": 4492
+    },
+    {
+      "date": "2011-05-25",
+      "observed_hours": 24,
+      "rentals": 4978
+    },
+    {
+      "date": "2011-05-26",
+      "observed_hours": 24,
+      "rentals": 4677
+    },
+    {
+      "date": "2011-05-27",
+      "observed_hours": 24,
+      "rentals": 4679
+    },
+    {
+      "date": "2011-05-28",
+      "observed_hours": 24,
+      "rentals": 4758
+    },
+    {
+      "date": "2011-05-29",
+      "observed_hours": 24,
+      "rentals": 4788
+    },
+    {
+      "date": "2011-05-30",
+      "observed_hours": 24,
+      "rentals": 4098
+    },
+    {
+      "date": "2011-05-31",
+      "observed_hours": 24,
+      "rentals": 3982
+    },
+    {
+      "date": "2011-06-01",
+      "observed_hours": 24,
+      "rentals": 3974
+    },
+    {
+      "date": "2011-06-02",
+      "observed_hours": 24,
+      "rentals": 4968
+    },
+    {
+      "date": "2011-06-03",
+      "observed_hours": 24,
+      "rentals": 5312
+    },
+    {
+      "date": "2011-06-04",
+      "observed_hours": 24,
+      "rentals": 5342
+    },
+    {
+      "date": "2011-06-05",
+      "observed_hours": 24,
+      "rentals": 4906
+    },
+    {
+      "date": "2011-06-06",
+      "observed_hours": 24,
+      "rentals": 4548
+    },
+    {
+      "date": "2011-06-07",
+      "observed_hours": 24,
+      "rentals": 4833
+    },
+    {
+      "date": "2011-06-08",
+      "observed_hours": 24,
+      "rentals": 4401
+    },
+    {
+      "date": "2011-06-09",
+      "observed_hours": 24,
+      "rentals": 3915
+    },
+    {
+      "date": "2011-06-10",
+      "observed_hours": 24,
+      "rentals": 4586
+    },
+    {
+      "date": "2011-06-11",
+      "observed_hours": 24,
+      "rentals": 4966
+    },
+    {
+      "date": "2011-06-12",
+      "observed_hours": 24,
+      "rentals": 4460
+    },
+    {
+      "date": "2011-06-13",
+      "observed_hours": 24,
+      "rentals": 5020
+    },
+    {
+      "date": "2011-06-14",
+      "observed_hours": 24,
+      "rentals": 4891
+    },
+    {
+      "date": "2011-06-15",
+      "observed_hours": 24,
+      "rentals": 5180
+    },
+    {
+      "date": "2011-06-16",
+      "observed_hours": 24,
+      "rentals": 3767
+    },
+    {
+      "date": "2011-06-17",
+      "observed_hours": 24,
+      "rentals": 4844
+    },
+    {
+      "date": "2011-06-18",
+      "observed_hours": 24,
+      "rentals": 5119
+    },
+    {
+      "date": "2011-06-19",
+      "observed_hours": 24,
+      "rentals": 4744
+    },
+    {
+      "date": "2011-06-20",
+      "observed_hours": 24,
+      "rentals": 4010
+    },
+    {
+      "date": "2011-06-21",
+      "observed_hours": 24,
+      "rentals": 4835
+    },
+    {
+      "date": "2011-06-22",
+      "observed_hours": 24,
+      "rentals": 4507
+    },
+    {
+      "date": "2011-06-23",
+      "observed_hours": 24,
+      "rentals": 4790
+    },
+    {
+      "date": "2011-06-24",
+      "observed_hours": 24,
+      "rentals": 4991
+    },
+    {
+      "date": "2011-06-25",
+      "observed_hours": 24,
+      "rentals": 5202
+    },
+    {
+      "date": "2011-06-26",
+      "observed_hours": 24,
+      "rentals": 5305
+    },
+    {
+      "date": "2011-06-27",
+      "observed_hours": 24,
+      "rentals": 4708
+    },
+    {
+      "date": "2011-06-28",
+      "observed_hours": 24,
+      "rentals": 4648
+    },
+    {
+      "date": "2011-06-29",
+      "observed_hours": 24,
+      "rentals": 5225
+    },
+    {
+      "date": "2011-06-30",
+      "observed_hours": 24,
+      "rentals": 5515
+    },
+    {
+      "date": "2011-07-01",
+      "observed_hours": 24,
+      "rentals": 5362
+    },
+    {
+      "date": "2011-07-02",
+      "observed_hours": 24,
+      "rentals": 5119
+    },
+    {
+      "date": "2011-07-03",
+      "observed_hours": 24,
+      "rentals": 4649
+    },
+    {
+      "date": "2011-07-04",
+      "observed_hours": 24,
+      "rentals": 6043
+    },
+    {
+      "date": "2011-07-05",
+      "observed_hours": 24,
+      "rentals": 4665
+    },
+    {
+      "date": "2011-07-06",
+      "observed_hours": 24,
+      "rentals": 4629
+    },
+    {
+      "date": "2011-07-07",
+      "observed_hours": 24,
+      "rentals": 4592
+    },
+    {
+      "date": "2011-07-08",
+      "observed_hours": 24,
+      "rentals": 4040
+    },
+    {
+      "date": "2011-07-09",
+      "observed_hours": 24,
+      "rentals": 5336
+    },
+    {
+      "date": "2011-07-10",
+      "observed_hours": 24,
+      "rentals": 4881
+    },
+    {
+      "date": "2011-07-11",
+      "observed_hours": 24,
+      "rentals": 4086
+    },
+    {
+      "date": "2011-07-12",
+      "observed_hours": 24,
+      "rentals": 4258
+    },
+    {
+      "date": "2011-07-13",
+      "observed_hours": 24,
+      "rentals": 4342
+    },
+    {
+      "date": "2011-07-14",
+      "observed_hours": 24,
+      "rentals": 5084
+    },
+    {
+      "date": "2011-07-15",
+      "observed_hours": 24,
+      "rentals": 5538
+    },
+    {
+      "date": "2011-07-16",
+      "observed_hours": 24,
+      "rentals": 5923
+    },
+    {
+      "date": "2011-07-17",
+      "observed_hours": 24,
+      "rentals": 5302
+    },
+    {
+      "date": "2011-07-18",
+      "observed_hours": 24,
+      "rentals": 4458
+    },
+    {
+      "date": "2011-07-19",
+      "observed_hours": 24,
+      "rentals": 4541
+    },
+    {
+      "date": "2011-07-20",
+      "observed_hours": 24,
+      "rentals": 4332
+    },
+    {
+      "date": "2011-07-21",
+      "observed_hours": 24,
+      "rentals": 3784
+    },
+    {
+      "date": "2011-07-22",
+      "observed_hours": 24,
+      "rentals": 3387
+    },
+    {
+      "date": "2011-07-23",
+      "observed_hours": 24,
+      "rentals": 3285
+    },
+    {
+      "date": "2011-07-24",
+      "observed_hours": 24,
+      "rentals": 3606
+    },
+    {
+      "date": "2011-07-25",
+      "observed_hours": 24,
+      "rentals": 3840
+    },
+    {
+      "date": "2011-07-26",
+      "observed_hours": 24,
+      "rentals": 4590
+    },
+    {
+      "date": "2011-07-27",
+      "observed_hours": 24,
+      "rentals": 4656
+    },
+    {
+      "date": "2011-07-28",
+      "observed_hours": 24,
+      "rentals": 4390
+    },
+    {
+      "date": "2011-07-29",
+      "observed_hours": 24,
+      "rentals": 3846
+    },
+    {
+      "date": "2011-07-30",
+      "observed_hours": 24,
+      "rentals": 4475
+    },
+    {
+      "date": "2011-07-31",
+      "observed_hours": 24,
+      "rentals": 4302
+    },
+    {
+      "date": "2011-08-01",
+      "observed_hours": 24,
+      "rentals": 4266
+    },
+    {
+      "date": "2011-08-02",
+      "observed_hours": 24,
+      "rentals": 4845
+    },
+    {
+      "date": "2011-08-03",
+      "observed_hours": 24,
+      "rentals": 3574
+    },
+    {
+      "date": "2011-08-04",
+      "observed_hours": 24,
+      "rentals": 4576
+    },
+    {
+      "date": "2011-08-05",
+      "observed_hours": 24,
+      "rentals": 4866
+    },
+    {
+      "date": "2011-08-06",
+      "observed_hours": 24,
+      "rentals": 4294
+    },
+    {
+      "date": "2011-08-07",
+      "observed_hours": 24,
+      "rentals": 3785
+    },
+    {
+      "date": "2011-08-08",
+      "observed_hours": 24,
+      "rentals": 4326
+    },
+    {
+      "date": "2011-08-09",
+      "observed_hours": 24,
+      "rentals": 4602
+    },
+    {
+      "date": "2011-08-10",
+      "observed_hours": 24,
+      "rentals": 4780
+    },
+    {
+      "date": "2011-08-11",
+      "observed_hours": 24,
+      "rentals": 4792
+    },
+    {
+      "date": "2011-08-12",
+      "observed_hours": 24,
+      "rentals": 4905
+    },
+    {
+      "date": "2011-08-13",
+      "observed_hours": 24,
+      "rentals": 4150
+    },
+    {
+      "date": "2011-08-14",
+      "observed_hours": 24,
+      "rentals": 3820
+    },
+    {
+      "date": "2011-08-15",
+      "observed_hours": 24,
+      "rentals": 4338
+    },
+    {
+      "date": "2011-08-16",
+      "observed_hours": 24,
+      "rentals": 4725
+    },
+    {
+      "date": "2011-08-17",
+      "observed_hours": 24,
+      "rentals": 4694
+    },
+    {
+      "date": "2011-08-18",
+      "observed_hours": 24,
+      "rentals": 3805
+    },
+    {
+      "date": "2011-08-19",
+      "observed_hours": 24,
+      "rentals": 4153
+    },
+    {
+      "date": "2011-08-20",
+      "observed_hours": 24,
+      "rentals": 5191
+    },
+    {
+      "date": "2011-08-21",
+      "observed_hours": 24,
+      "rentals": 3873
+    },
+    {
+      "date": "2011-08-22",
+      "observed_hours": 24,
+      "rentals": 4758
+    },
+    {
+      "date": "2011-08-23",
+      "observed_hours": 24,
+      "rentals": 5895
+    },
+    {
+      "date": "2011-08-24",
+      "observed_hours": 24,
+      "rentals": 5130
+    },
+    {
+      "date": "2011-08-25",
+      "observed_hours": 24,
+      "rentals": 3542
+    },
+    {
+      "date": "2011-08-26",
+      "observed_hours": 24,
+      "rentals": 4661
+    },
+    {
+      "date": "2011-08-27",
+      "observed_hours": 18,
+      "rentals": 1115
+    },
+    {
+      "date": "2011-08-28",
+      "observed_hours": 17,
+      "rentals": 4334
+    },
+    {
+      "date": "2011-08-29",
+      "observed_hours": 24,
+      "rentals": 4634
+    },
+    {
+      "date": "2011-08-30",
+      "observed_hours": 24,
+      "rentals": 5204
+    },
+    {
+      "date": "2011-08-31",
+      "observed_hours": 24,
+      "rentals": 5058
+    },
+    {
+      "date": "2011-09-01",
+      "observed_hours": 24,
+      "rentals": 5115
+    },
+    {
+      "date": "2011-09-02",
+      "observed_hours": 24,
+      "rentals": 4727
+    },
+    {
+      "date": "2011-09-03",
+      "observed_hours": 24,
+      "rentals": 4484
+    },
+    {
+      "date": "2011-09-04",
+      "observed_hours": 24,
+      "rentals": 4940
+    },
+    {
+      "date": "2011-09-05",
+      "observed_hours": 24,
+      "rentals": 3351
+    },
+    {
+      "date": "2011-09-06",
+      "observed_hours": 23,
+      "rentals": 2710
+    },
+    {
+      "date": "2011-09-07",
+      "observed_hours": 24,
+      "rentals": 1996
+    },
+    {
+      "date": "2011-09-08",
+      "observed_hours": 23,
+      "rentals": 1842
+    },
+    {
+      "date": "2011-09-09",
+      "observed_hours": 24,
+      "rentals": 3544
+    },
+    {
+      "date": "2011-09-10",
+      "observed_hours": 24,
+      "rentals": 5345
+    },
+    {
+      "date": "2011-09-11",
+      "observed_hours": 24,
+      "rentals": 5046
+    },
+    {
+      "date": "2011-09-12",
+      "observed_hours": 23,
+      "rentals": 4713
+    },
+    {
+      "date": "2011-09-13",
+      "observed_hours": 24,
+      "rentals": 4763
+    },
+    {
+      "date": "2011-09-14",
+      "observed_hours": 24,
+      "rentals": 4785
+    },
+    {
+      "date": "2011-09-15",
+      "observed_hours": 24,
+      "rentals": 3659
+    },
+    {
+      "date": "2011-09-16",
+      "observed_hours": 24,
+      "rentals": 4760
+    },
+    {
+      "date": "2011-09-17",
+      "observed_hours": 24,
+      "rentals": 4511
+    },
+    {
+      "date": "2011-09-18",
+      "observed_hours": 24,
+      "rentals": 4274
+    },
+    {
+      "date": "2011-09-19",
+      "observed_hours": 24,
+      "rentals": 4539
+    },
+    {
+      "date": "2011-09-20",
+      "observed_hours": 24,
+      "rentals": 3641
+    },
+    {
+      "date": "2011-09-21",
+      "observed_hours": 24,
+      "rentals": 4352
+    },
+    {
+      "date": "2011-09-22",
+      "observed_hours": 24,
+      "rentals": 4795
+    },
+    {
+      "date": "2011-09-23",
+      "observed_hours": 24,
+      "rentals": 2395
+    },
+    {
+      "date": "2011-09-24",
+      "observed_hours": 24,
+      "rentals": 5423
+    },
+    {
+      "date": "2011-09-25",
+      "observed_hours": 24,
+      "rentals": 5010
+    },
+    {
+      "date": "2011-09-26",
+      "observed_hours": 24,
+      "rentals": 4630
+    },
+    {
+      "date": "2011-09-27",
+      "observed_hours": 24,
+      "rentals": 4120
+    },
+    {
+      "date": "2011-09-28",
+      "observed_hours": 24,
+      "rentals": 3907
+    },
+    {
+      "date": "2011-09-29",
+      "observed_hours": 24,
+      "rentals": 4839
+    },
+    {
+      "date": "2011-09-30",
+      "observed_hours": 24,
+      "rentals": 5202
+    },
+    {
+      "date": "2011-10-01",
+      "observed_hours": 24,
+      "rentals": 2429
+    },
+    {
+      "date": "2011-10-02",
+      "observed_hours": 24,
+      "rentals": 2918
+    },
+    {
+      "date": "2011-10-03",
+      "observed_hours": 24,
+      "rentals": 3570
+    },
+    {
+      "date": "2011-10-04",
+      "observed_hours": 24,
+      "rentals": 4456
+    },
+    {
+      "date": "2011-10-05",
+      "observed_hours": 24,
+      "rentals": 4826
+    },
+    {
+      "date": "2011-10-06",
+      "observed_hours": 24,
+      "rentals": 4765
+    },
+    {
+      "date": "2011-10-07",
+      "observed_hours": 24,
+      "rentals": 4985
+    },
+    {
+      "date": "2011-10-08",
+      "observed_hours": 24,
+      "rentals": 5409
+    },
+    {
+      "date": "2011-10-09",
+      "observed_hours": 24,
+      "rentals": 5511
+    },
+    {
+      "date": "2011-10-10",
+      "observed_hours": 24,
+      "rentals": 5117
+    },
+    {
+      "date": "2011-10-11",
+      "observed_hours": 24,
+      "rentals": 4563
+    },
+    {
+      "date": "2011-10-12",
+      "observed_hours": 24,
+      "rentals": 2416
+    },
+    {
+      "date": "2011-10-13",
+      "observed_hours": 24,
+      "rentals": 2913
+    },
+    {
+      "date": "2011-10-14",
+      "observed_hours": 24,
+      "rentals": 3644
+    },
+    {
+      "date": "2011-10-15",
+      "observed_hours": 24,
+      "rentals": 5217
+    },
+    {
+      "date": "2011-10-16",
+      "observed_hours": 24,
+      "rentals": 5041
+    },
+    {
+      "date": "2011-10-17",
+      "observed_hours": 24,
+      "rentals": 4570
+    },
+    {
+      "date": "2011-10-18",
+      "observed_hours": 24,
+      "rentals": 4748
+    },
+    {
+      "date": "2011-10-19",
+      "observed_hours": 23,
+      "rentals": 2424
+    },
+    {
+      "date": "2011-10-20",
+      "observed_hours": 24,
+      "rentals": 4195
+    },
+    {
+      "date": "2011-10-21",
+      "observed_hours": 24,
+      "rentals": 4304
+    },
+    {
+      "date": "2011-10-22",
+      "observed_hours": 24,
+      "rentals": 4308
+    },
+    {
+      "date": "2011-10-23",
+      "observed_hours": 24,
+      "rentals": 4381
+    },
+    {
+      "date": "2011-10-24",
+      "observed_hours": 24,
+      "rentals": 4187
+    },
+    {
+      "date": "2011-10-25",
+      "observed_hours": 24,
+      "rentals": 4687
+    },
+    {
+      "date": "2011-10-26",
+      "observed_hours": 24,
+      "rentals": 3894
+    },
+    {
+      "date": "2011-10-27",
+      "observed_hours": 24,
+      "rentals": 2659
+    },
+    {
+      "date": "2011-10-28",
+      "observed_hours": 24,
+      "rentals": 3747
+    },
+    {
+      "date": "2011-10-29",
+      "observed_hours": 24,
+      "rentals": 627
+    },
+    {
+      "date": "2011-10-30",
+      "observed_hours": 24,
+      "rentals": 3331
+    },
+    {
+      "date": "2011-10-31",
+      "observed_hours": 24,
+      "rentals": 3669
+    },
+    {
+      "date": "2011-11-01",
+      "observed_hours": 24,
+      "rentals": 4068
+    },
+    {
+      "date": "2011-11-02",
+      "observed_hours": 24,
+      "rentals": 4186
+    },
+    {
+      "date": "2011-11-03",
+      "observed_hours": 24,
+      "rentals": 3974
+    },
+    {
+      "date": "2011-11-04",
+      "observed_hours": 24,
+      "rentals": 4046
+    },
+    {
+      "date": "2011-11-05",
+      "observed_hours": 24,
+      "rentals": 3926
+    },
+    {
+      "date": "2011-11-06",
+      "observed_hours": 24,
+      "rentals": 3649
+    },
+    {
+      "date": "2011-11-07",
+      "observed_hours": 24,
+      "rentals": 4035
+    },
+    {
+      "date": "2011-11-08",
+      "observed_hours": 24,
+      "rentals": 4205
+    },
+    {
+      "date": "2011-11-09",
+      "observed_hours": 24,
+      "rentals": 4109
+    },
+    {
+      "date": "2011-11-10",
+      "observed_hours": 24,
+      "rentals": 2933
+    },
+    {
+      "date": "2011-11-11",
+      "observed_hours": 24,
+      "rentals": 3368
+    },
+    {
+      "date": "2011-11-12",
+      "observed_hours": 24,
+      "rentals": 4067
+    },
+    {
+      "date": "2011-11-13",
+      "observed_hours": 24,
+      "rentals": 3717
+    },
+    {
+      "date": "2011-11-14",
+      "observed_hours": 24,
+      "rentals": 4486
+    },
+    {
+      "date": "2011-11-15",
+      "observed_hours": 24,
+      "rentals": 4195
+    },
+    {
+      "date": "2011-11-16",
+      "observed_hours": 24,
+      "rentals": 1817
+    },
+    {
+      "date": "2011-11-17",
+      "observed_hours": 24,
+      "rentals": 3053
+    },
+    {
+      "date": "2011-11-18",
+      "observed_hours": 24,
+      "rentals": 3392
+    },
+    {
+      "date": "2011-11-19",
+      "observed_hours": 24,
+      "rentals": 3663
+    },
+    {
+      "date": "2011-11-20",
+      "observed_hours": 24,
+      "rentals": 3520
+    },
+    {
+      "date": "2011-11-21",
+      "observed_hours": 24,
+      "rentals": 2765
+    },
+    {
+      "date": "2011-11-22",
+      "observed_hours": 24,
+      "rentals": 1607
+    },
+    {
+      "date": "2011-11-23",
+      "observed_hours": 24,
+      "rentals": 2566
+    },
+    {
+      "date": "2011-11-24",
+      "observed_hours": 24,
+      "rentals": 1495
+    },
+    {
+      "date": "2011-11-25",
+      "observed_hours": 24,
+      "rentals": 2792
+    },
+    {
+      "date": "2011-11-26",
+      "observed_hours": 24,
+      "rentals": 3068
+    },
+    {
+      "date": "2011-11-27",
+      "observed_hours": 24,
+      "rentals": 3071
+    },
+    {
+      "date": "2011-11-28",
+      "observed_hours": 23,
+      "rentals": 3867
+    },
+    {
+      "date": "2011-11-29",
+      "observed_hours": 24,
+      "rentals": 2914
+    },
+    {
+      "date": "2011-11-30",
+      "observed_hours": 24,
+      "rentals": 3613
+    },
+    {
+      "date": "2011-12-01",
+      "observed_hours": 24,
+      "rentals": 3727
+    },
+    {
+      "date": "2011-12-02",
+      "observed_hours": 24,
+      "rentals": 3940
+    },
+    {
+      "date": "2011-12-03",
+      "observed_hours": 24,
+      "rentals": 3614
+    },
+    {
+      "date": "2011-12-04",
+      "observed_hours": 24,
+      "rentals": 3485
+    },
+    {
+      "date": "2011-12-05",
+      "observed_hours": 24,
+      "rentals": 3811
+    },
+    {
+      "date": "2011-12-06",
+      "observed_hours": 24,
+      "rentals": 2594
+    },
+    {
+      "date": "2011-12-07",
+      "observed_hours": 24,
+      "rentals": 705
+    },
+    {
+      "date": "2011-12-08",
+      "observed_hours": 24,
+      "rentals": 3322
+    },
+    {
+      "date": "2011-12-09",
+      "observed_hours": 24,
+      "rentals": 3620
+    },
+    {
+      "date": "2011-12-10",
+      "observed_hours": 24,
+      "rentals": 3190
+    },
+    {
+      "date": "2011-12-11",
+      "observed_hours": 24,
+      "rentals": 2743
+    },
+    {
+      "date": "2011-12-12",
+      "observed_hours": 24,
+      "rentals": 3310
+    },
+    {
+      "date": "2011-12-13",
+      "observed_hours": 24,
+      "rentals": 3523
+    },
+    {
+      "date": "2011-12-14",
+      "observed_hours": 24,
+      "rentals": 3740
+    },
+    {
+      "date": "2011-12-15",
+      "observed_hours": 24,
+      "rentals": 3709
+    },
+    {
+      "date": "2011-12-16",
+      "observed_hours": 24,
+      "rentals": 3577
+    },
+    {
+      "date": "2011-12-17",
+      "observed_hours": 24,
+      "rentals": 2739
+    },
+    {
+      "date": "2011-12-18",
+      "observed_hours": 24,
+      "rentals": 2431
+    },
+    {
+      "date": "2011-12-19",
+      "observed_hours": 24,
+      "rentals": 3403
+    },
+    {
+      "date": "2011-12-20",
+      "observed_hours": 24,
+      "rentals": 3750
+    },
+    {
+      "date": "2011-12-21",
+      "observed_hours": 24,
+      "rentals": 2660
+    },
+    {
+      "date": "2011-12-22",
+      "observed_hours": 24,
+      "rentals": 3068
+    },
+    {
+      "date": "2011-12-23",
+      "observed_hours": 24,
+      "rentals": 2209
+    },
+    {
+      "date": "2011-12-24",
+      "observed_hours": 24,
+      "rentals": 1011
+    },
+    {
+      "date": "2011-12-25",
+      "observed_hours": 23,
+      "rentals": 754
+    },
+    {
+      "date": "2011-12-26",
+      "observed_hours": 23,
+      "rentals": 1317
+    },
+    {
+      "date": "2011-12-27",
+      "observed_hours": 24,
+      "rentals": 1162
+    },
+    {
+      "date": "2011-12-28",
+      "observed_hours": 23,
+      "rentals": 2302
+    },
+    {
+      "date": "2011-12-29",
+      "observed_hours": 24,
+      "rentals": 2423
+    },
+    {
+      "date": "2011-12-30",
+      "observed_hours": 24,
+      "rentals": 2999
+    },
+    {
+      "date": "2011-12-31",
+      "observed_hours": 24,
+      "rentals": 2485
+    },
+    {
+      "date": "2012-01-01",
+      "observed_hours": 24,
+      "rentals": 2294
+    },
+    {
+      "date": "2012-01-02",
+      "observed_hours": 23,
+      "rentals": 1951
+    },
+    {
+      "date": "2012-01-03",
+      "observed_hours": 24,
+      "rentals": 2236
+    },
+    {
+      "date": "2012-01-04",
+      "observed_hours": 24,
+      "rentals": 2368
+    },
+    {
+      "date": "2012-01-05",
+      "observed_hours": 24,
+      "rentals": 3272
+    },
+    {
+      "date": "2012-01-06",
+      "observed_hours": 24,
+      "rentals": 4098
+    },
+    {
+      "date": "2012-01-07",
+      "observed_hours": 24,
+      "rentals": 4521
+    },
+    {
+      "date": "2012-01-08",
+      "observed_hours": 24,
+      "rentals": 3425
+    },
+    {
+      "date": "2012-01-09",
+      "observed_hours": 24,
+      "rentals": 2376
+    },
+    {
+      "date": "2012-01-10",
+      "observed_hours": 23,
+      "rentals": 3598
+    },
+    {
+      "date": "2012-01-11",
+      "observed_hours": 24,
+      "rentals": 2177
+    },
+    {
+      "date": "2012-01-12",
+      "observed_hours": 24,
+      "rentals": 4097
+    },
+    {
+      "date": "2012-01-13",
+      "observed_hours": 24,
+      "rentals": 3214
+    },
+    {
+      "date": "2012-01-14",
+      "observed_hours": 24,
+      "rentals": 2493
+    },
+    {
+      "date": "2012-01-15",
+      "observed_hours": 24,
+      "rentals": 2311
+    },
+    {
+      "date": "2012-01-16",
+      "observed_hours": 24,
+      "rentals": 2298
+    },
+    {
+      "date": "2012-01-17",
+      "observed_hours": 23,
+      "rentals": 2935
+    },
+    {
+      "date": "2012-01-18",
+      "observed_hours": 24,
+      "rentals": 3376
+    },
+    {
+      "date": "2012-01-19",
+      "observed_hours": 24,
+      "rentals": 3292
+    },
+    {
+      "date": "2012-01-20",
+      "observed_hours": 24,
+      "rentals": 3163
+    },
+    {
+      "date": "2012-01-21",
+      "observed_hours": 24,
+      "rentals": 1301
+    },
+    {
+      "date": "2012-01-22",
+      "observed_hours": 24,
+      "rentals": 1977
+    },
+    {
+      "date": "2012-01-23",
+      "observed_hours": 24,
+      "rentals": 2432
+    },
+    {
+      "date": "2012-01-24",
+      "observed_hours": 24,
+      "rentals": 4339
+    },
+    {
+      "date": "2012-01-25",
+      "observed_hours": 24,
+      "rentals": 4270
+    },
+    {
+      "date": "2012-01-26",
+      "observed_hours": 24,
+      "rentals": 4075
+    },
+    {
+      "date": "2012-01-27",
+      "observed_hours": 24,
+      "rentals": 3456
+    },
+    {
+      "date": "2012-01-28",
+      "observed_hours": 24,
+      "rentals": 4023
+    },
+    {
+      "date": "2012-01-29",
+      "observed_hours": 24,
+      "rentals": 3243
+    },
+    {
+      "date": "2012-01-30",
+      "observed_hours": 24,
+      "rentals": 3624
+    },
+    {
+      "date": "2012-01-31",
+      "observed_hours": 24,
+      "rentals": 4509
+    },
+    {
+      "date": "2012-02-01",
+      "observed_hours": 24,
+      "rentals": 4579
+    },
+    {
+      "date": "2012-02-02",
+      "observed_hours": 24,
+      "rentals": 3761
+    },
+    {
+      "date": "2012-02-03",
+      "observed_hours": 24,
+      "rentals": 4151
+    },
+    {
+      "date": "2012-02-04",
+      "observed_hours": 24,
+      "rentals": 2832
+    },
+    {
+      "date": "2012-02-05",
+      "observed_hours": 24,
+      "rentals": 2947
+    },
+    {
+      "date": "2012-02-06",
+      "observed_hours": 23,
+      "rentals": 3784
+    },
+    {
+      "date": "2012-02-07",
+      "observed_hours": 24,
+      "rentals": 4375
+    },
+    {
+      "date": "2012-02-08",
+      "observed_hours": 24,
+      "rentals": 2802
+    },
+    {
+      "date": "2012-02-09",
+      "observed_hours": 24,
+      "rentals": 3830
+    },
+    {
+      "date": "2012-02-10",
+      "observed_hours": 24,
+      "rentals": 3831
+    },
+    {
+      "date": "2012-02-11",
+      "observed_hours": 24,
+      "rentals": 2169
+    },
+    {
+      "date": "2012-02-12",
+      "observed_hours": 24,
+      "rentals": 1529
+    },
+    {
+      "date": "2012-02-13",
+      "observed_hours": 24,
+      "rentals": 3422
+    },
+    {
+      "date": "2012-02-14",
+      "observed_hours": 24,
+      "rentals": 3922
+    },
+    {
+      "date": "2012-02-15",
+      "observed_hours": 24,
+      "rentals": 4169
+    },
+    {
+      "date": "2012-02-16",
+      "observed_hours": 24,
+      "rentals": 3005
+    },
+    {
+      "date": "2012-02-17",
+      "observed_hours": 24,
+      "rentals": 4154
+    },
+    {
+      "date": "2012-02-18",
+      "observed_hours": 24,
+      "rentals": 4318
+    },
+    {
+      "date": "2012-02-19",
+      "observed_hours": 24,
+      "rentals": 2689
+    },
+    {
+      "date": "2012-02-20",
+      "observed_hours": 23,
+      "rentals": 3129
+    },
+    {
+      "date": "2012-02-21",
+      "observed_hours": 23,
+      "rentals": 3777
+    },
+    {
+      "date": "2012-02-22",
+      "observed_hours": 24,
+      "rentals": 4773
+    },
+    {
+      "date": "2012-02-23",
+      "observed_hours": 24,
+      "rentals": 5062
+    },
+    {
+      "date": "2012-02-24",
+      "observed_hours": 24,
+      "rentals": 3487
+    },
+    {
+      "date": "2012-02-25",
+      "observed_hours": 24,
+      "rentals": 2732
+    },
+    {
+      "date": "2012-02-26",
+      "observed_hours": 24,
+      "rentals": 3389
+    },
+    {
+      "date": "2012-02-27",
+      "observed_hours": 24,
+      "rentals": 4322
+    },
+    {
+      "date": "2012-02-28",
+      "observed_hours": 24,
+      "rentals": 4363
+    },
+    {
+      "date": "2012-02-29",
+      "observed_hours": 23,
+      "rentals": 1834
+    },
+    {
+      "date": "2012-03-01",
+      "observed_hours": 24,
+      "rentals": 4990
+    },
+    {
+      "date": "2012-03-02",
+      "observed_hours": 24,
+      "rentals": 3194
+    },
+    {
+      "date": "2012-03-03",
+      "observed_hours": 24,
+      "rentals": 4066
+    },
+    {
+      "date": "2012-03-04",
+      "observed_hours": 24,
+      "rentals": 3423
+    },
+    {
+      "date": "2012-03-05",
+      "observed_hours": 24,
+      "rentals": 3333
+    },
+    {
+      "date": "2012-03-06",
+      "observed_hours": 24,
+      "rentals": 3956
+    },
+    {
+      "date": "2012-03-07",
+      "observed_hours": 24,
+      "rentals": 4916
+    },
+    {
+      "date": "2012-03-08",
+      "observed_hours": 24,
+      "rentals": 5382
+    },
+    {
+      "date": "2012-03-09",
+      "observed_hours": 24,
+      "rentals": 4569
+    },
+    {
+      "date": "2012-03-10",
+      "observed_hours": 24,
+      "rentals": 4118
+    },
+    {
+      "date": "2012-03-11",
+      "observed_hours": 23,
+      "rentals": 4911
+    },
+    {
+      "date": "2012-03-12",
+      "observed_hours": 24,
+      "rentals": 5298
+    },
+    {
+      "date": "2012-03-13",
+      "observed_hours": 24,
+      "rentals": 5847
+    },
+    {
+      "date": "2012-03-14",
+      "observed_hours": 24,
+      "rentals": 6312
+    },
+    {
+      "date": "2012-03-15",
+      "observed_hours": 24,
+      "rentals": 6192
+    },
+    {
+      "date": "2012-03-16",
+      "observed_hours": 24,
+      "rentals": 4378
+    },
+    {
+      "date": "2012-03-17",
+      "observed_hours": 24,
+      "rentals": 7836
+    },
+    {
+      "date": "2012-03-18",
+      "observed_hours": 24,
+      "rentals": 5892
+    },
+    {
+      "date": "2012-03-19",
+      "observed_hours": 24,
+      "rentals": 6153
+    },
+    {
+      "date": "2012-03-20",
+      "observed_hours": 24,
+      "rentals": 6093
+    },
+    {
+      "date": "2012-03-21",
+      "observed_hours": 24,
+      "rentals": 6230
+    },
+    {
+      "date": "2012-03-22",
+      "observed_hours": 24,
+      "rentals": 6871
+    },
+    {
+      "date": "2012-03-23",
+      "observed_hours": 24,
+      "rentals": 8362
+    },
+    {
+      "date": "2012-03-24",
+      "observed_hours": 24,
+      "rentals": 3372
+    },
+    {
+      "date": "2012-03-25",
+      "observed_hours": 24,
+      "rentals": 4996
+    },
+    {
+      "date": "2012-03-26",
+      "observed_hours": 24,
+      "rentals": 5558
+    },
+    {
+      "date": "2012-03-27",
+      "observed_hours": 24,
+      "rentals": 5102
+    },
+    {
+      "date": "2012-03-28",
+      "observed_hours": 24,
+      "rentals": 5698
+    },
+    {
+      "date": "2012-03-29",
+      "observed_hours": 24,
+      "rentals": 6133
+    },
+    {
+      "date": "2012-03-30",
+      "observed_hours": 24,
+      "rentals": 5459
+    },
+    {
+      "date": "2012-03-31",
+      "observed_hours": 24,
+      "rentals": 6235
+    },
+    {
+      "date": "2012-04-01",
+      "observed_hours": 24,
+      "rentals": 6041
+    },
+    {
+      "date": "2012-04-02",
+      "observed_hours": 23,
+      "rentals": 5936
+    },
+    {
+      "date": "2012-04-03",
+      "observed_hours": 24,
+      "rentals": 6772
+    },
+    {
+      "date": "2012-04-04",
+      "observed_hours": 24,
+      "rentals": 6436
+    },
+    {
+      "date": "2012-04-05",
+      "observed_hours": 24,
+      "rentals": 6457
+    },
+    {
+      "date": "2012-04-06",
+      "observed_hours": 24,
+      "rentals": 6460
+    },
+    {
+      "date": "2012-04-07",
+      "observed_hours": 24,
+      "rentals": 6857
+    },
+    {
+      "date": "2012-04-08",
+      "observed_hours": 24,
+      "rentals": 5169
+    },
+    {
+      "date": "2012-04-09",
+      "observed_hours": 24,
+      "rentals": 5585
+    },
+    {
+      "date": "2012-04-10",
+      "observed_hours": 24,
+      "rentals": 5918
+    },
+    {
+      "date": "2012-04-11",
+      "observed_hours": 23,
+      "rentals": 4862
+    },
+    {
+      "date": "2012-04-12",
+      "observed_hours": 24,
+      "rentals": 5409
+    },
+    {
+      "date": "2012-04-13",
+      "observed_hours": 24,
+      "rentals": 6398
+    },
+    {
+      "date": "2012-04-14",
+      "observed_hours": 24,
+      "rentals": 7460
+    },
+    {
+      "date": "2012-04-15",
+      "observed_hours": 24,
+      "rentals": 7132
+    },
+    {
+      "date": "2012-04-16",
+      "observed_hours": 24,
+      "rentals": 6370
+    },
+    {
+      "date": "2012-04-17",
+      "observed_hours": 24,
+      "rentals": 6691
+    },
+    {
+      "date": "2012-04-18",
+      "observed_hours": 24,
+      "rentals": 4367
+    },
+    {
+      "date": "2012-04-19",
+      "observed_hours": 24,
+      "rentals": 6565
+    },
+    {
+      "date": "2012-04-20",
+      "observed_hours": 24,
+      "rentals": 7290
+    },
+    {
+      "date": "2012-04-21",
+      "observed_hours": 24,
+      "rentals": 6624
+    },
+    {
+      "date": "2012-04-22",
+      "observed_hours": 24,
+      "rentals": 1027
+    },
+    {
+      "date": "2012-04-23",
+      "observed_hours": 24,
+      "rentals": 3214
+    },
+    {
+      "date": "2012-04-24",
+      "observed_hours": 24,
+      "rentals": 5633
+    },
+    {
+      "date": "2012-04-25",
+      "observed_hours": 24,
+      "rentals": 6196
+    },
+    {
+      "date": "2012-04-26",
+      "observed_hours": 24,
+      "rentals": 5026
+    },
+    {
+      "date": "2012-04-27",
+      "observed_hours": 24,
+      "rentals": 6233
+    },
+    {
+      "date": "2012-04-28",
+      "observed_hours": 24,
+      "rentals": 4220
+    },
+    {
+      "date": "2012-04-29",
+      "observed_hours": 24,
+      "rentals": 6304
+    },
+    {
+      "date": "2012-04-30",
+      "observed_hours": 24,
+      "rentals": 5572
+    },
+    {
+      "date": "2012-05-01",
+      "observed_hours": 24,
+      "rentals": 5740
+    },
+    {
+      "date": "2012-05-02",
+      "observed_hours": 24,
+      "rentals": 6169
+    },
+    {
+      "date": "2012-05-03",
+      "observed_hours": 24,
+      "rentals": 6421
+    },
+    {
+      "date": "2012-05-04",
+      "observed_hours": 24,
+      "rentals": 6296
+    },
+    {
+      "date": "2012-05-05",
+      "observed_hours": 24,
+      "rentals": 6883
+    },
+    {
+      "date": "2012-05-06",
+      "observed_hours": 24,
+      "rentals": 6359
+    },
+    {
+      "date": "2012-05-07",
+      "observed_hours": 24,
+      "rentals": 6273
+    },
+    {
+      "date": "2012-05-08",
+      "observed_hours": 24,
+      "rentals": 5728
+    },
+    {
+      "date": "2012-05-09",
+      "observed_hours": 24,
+      "rentals": 4717
+    },
+    {
+      "date": "2012-05-10",
+      "observed_hours": 24,
+      "rentals": 6572
+    },
+    {
+      "date": "2012-05-11",
+      "observed_hours": 24,
+      "rentals": 7030
+    },
+    {
+      "date": "2012-05-12",
+      "observed_hours": 24,
+      "rentals": 7429
+    },
+    {
+      "date": "2012-05-13",
+      "observed_hours": 24,
+      "rentals": 6118
+    },
+    {
+      "date": "2012-05-14",
+      "observed_hours": 24,
+      "rentals": 2843
+    },
+    {
+      "date": "2012-05-15",
+      "observed_hours": 24,
+      "rentals": 5115
+    },
+    {
+      "date": "2012-05-16",
+      "observed_hours": 24,
+      "rentals": 7424
+    },
+    {
+      "date": "2012-05-17",
+      "observed_hours": 24,
+      "rentals": 7384
+    },
+    {
+      "date": "2012-05-18",
+      "observed_hours": 24,
+      "rentals": 7639
+    },
+    {
+      "date": "2012-05-19",
+      "observed_hours": 24,
+      "rentals": 8294
+    },
+    {
+      "date": "2012-05-20",
+      "observed_hours": 24,
+      "rentals": 7129
+    },
+    {
+      "date": "2012-05-21",
+      "observed_hours": 24,
+      "rentals": 4359
+    },
+    {
+      "date": "2012-05-22",
+      "observed_hours": 24,
+      "rentals": 6073
+    },
+    {
+      "date": "2012-05-23",
+      "observed_hours": 24,
+      "rentals": 5260
+    },
+    {
+      "date": "2012-05-24",
+      "observed_hours": 24,
+      "rentals": 6770
+    },
+    {
+      "date": "2012-05-25",
+      "observed_hours": 24,
+      "rentals": 6734
+    },
+    {
+      "date": "2012-05-26",
+      "observed_hours": 24,
+      "rentals": 6536
+    },
+    {
+      "date": "2012-05-27",
+      "observed_hours": 24,
+      "rentals": 6591
+    },
+    {
+      "date": "2012-05-28",
+      "observed_hours": 24,
+      "rentals": 6043
+    },
+    {
+      "date": "2012-05-29",
+      "observed_hours": 24,
+      "rentals": 5743
+    },
+    {
+      "date": "2012-05-30",
+      "observed_hours": 24,
+      "rentals": 6855
+    },
+    {
+      "date": "2012-05-31",
+      "observed_hours": 24,
+      "rentals": 7338
+    },
+    {
+      "date": "2012-06-01",
+      "observed_hours": 24,
+      "rentals": 4127
+    },
+    {
+      "date": "2012-06-02",
+      "observed_hours": 24,
+      "rentals": 8120
+    },
+    {
+      "date": "2012-06-03",
+      "observed_hours": 24,
+      "rentals": 7641
+    },
+    {
+      "date": "2012-06-04",
+      "observed_hours": 24,
+      "rentals": 6998
+    },
+    {
+      "date": "2012-06-05",
+      "observed_hours": 24,
+      "rentals": 7001
+    },
+    {
+      "date": "2012-06-06",
+      "observed_hours": 24,
+      "rentals": 7055
+    },
+    {
+      "date": "2012-06-07",
+      "observed_hours": 24,
+      "rentals": 7494
+    },
+    {
+      "date": "2012-06-08",
+      "observed_hours": 24,
+      "rentals": 7736
+    },
+    {
+      "date": "2012-06-09",
+      "observed_hours": 24,
+      "rentals": 7498
+    },
+    {
+      "date": "2012-06-10",
+      "observed_hours": 24,
+      "rentals": 6598
+    },
+    {
+      "date": "2012-06-11",
+      "observed_hours": 24,
+      "rentals": 6664
+    },
+    {
+      "date": "2012-06-12",
+      "observed_hours": 24,
+      "rentals": 4972
+    },
+    {
+      "date": "2012-06-13",
+      "observed_hours": 24,
+      "rentals": 7421
+    },
+    {
+      "date": "2012-06-14",
+      "observed_hours": 24,
+      "rentals": 7363
+    },
+    {
+      "date": "2012-06-15",
+      "observed_hours": 24,
+      "rentals": 7665
+    },
+    {
+      "date": "2012-06-16",
+      "observed_hours": 24,
+      "rentals": 7702
+    },
+    {
+      "date": "2012-06-17",
+      "observed_hours": 24,
+      "rentals": 6978
+    },
+    {
+      "date": "2012-06-18",
+      "observed_hours": 24,
+      "rentals": 5099
+    },
+    {
+      "date": "2012-06-19",
+      "observed_hours": 24,
+      "rentals": 6825
+    },
+    {
+      "date": "2012-06-20",
+      "observed_hours": 24,
+      "rentals": 6211
+    },
+    {
+      "date": "2012-06-21",
+      "observed_hours": 24,
+      "rentals": 5905
+    },
+    {
+      "date": "2012-06-22",
+      "observed_hours": 24,
+      "rentals": 5823
+    },
+    {
+      "date": "2012-06-23",
+      "observed_hours": 24,
+      "rentals": 7458
+    },
+    {
+      "date": "2012-06-24",
+      "observed_hours": 24,
+      "rentals": 6891
+    },
+    {
+      "date": "2012-06-25",
+      "observed_hours": 24,
+      "rentals": 6779
+    },
+    {
+      "date": "2012-06-26",
+      "observed_hours": 24,
+      "rentals": 7442
+    },
+    {
+      "date": "2012-06-27",
+      "observed_hours": 24,
+      "rentals": 7335
+    },
+    {
+      "date": "2012-06-28",
+      "observed_hours": 24,
+      "rentals": 6879
+    },
+    {
+      "date": "2012-06-29",
+      "observed_hours": 24,
+      "rentals": 5463
+    },
+    {
+      "date": "2012-06-30",
+      "observed_hours": 24,
+      "rentals": 5687
+    },
+    {
+      "date": "2012-07-01",
+      "observed_hours": 24,
+      "rentals": 5531
+    },
+    {
+      "date": "2012-07-02",
+      "observed_hours": 24,
+      "rentals": 6227
+    },
+    {
+      "date": "2012-07-03",
+      "observed_hours": 24,
+      "rentals": 6660
+    },
+    {
+      "date": "2012-07-04",
+      "observed_hours": 24,
+      "rentals": 7403
+    },
+    {
+      "date": "2012-07-05",
+      "observed_hours": 24,
+      "rentals": 6241
+    },
+    {
+      "date": "2012-07-06",
+      "observed_hours": 24,
+      "rentals": 6207
+    },
+    {
+      "date": "2012-07-07",
+      "observed_hours": 24,
+      "rentals": 4840
+    },
+    {
+      "date": "2012-07-08",
+      "observed_hours": 24,
+      "rentals": 4672
+    },
+    {
+      "date": "2012-07-09",
+      "observed_hours": 24,
+      "rentals": 6569
+    },
+    {
+      "date": "2012-07-10",
+      "observed_hours": 24,
+      "rentals": 6290
+    },
+    {
+      "date": "2012-07-11",
+      "observed_hours": 24,
+      "rentals": 7264
+    },
+    {
+      "date": "2012-07-12",
+      "observed_hours": 24,
+      "rentals": 7446
+    },
+    {
+      "date": "2012-07-13",
+      "observed_hours": 24,
+      "rentals": 7499
+    },
+    {
+      "date": "2012-07-14",
+      "observed_hours": 24,
+      "rentals": 6969
+    },
+    {
+      "date": "2012-07-15",
+      "observed_hours": 24,
+      "rentals": 6031
+    },
+    {
+      "date": "2012-07-16",
+      "observed_hours": 24,
+      "rentals": 6830
+    },
+    {
+      "date": "2012-07-17",
+      "observed_hours": 24,
+      "rentals": 6786
+    },
+    {
+      "date": "2012-07-18",
+      "observed_hours": 24,
+      "rentals": 5713
+    },
+    {
+      "date": "2012-07-19",
+      "observed_hours": 24,
+      "rentals": 6591
+    },
+    {
+      "date": "2012-07-20",
+      "observed_hours": 24,
+      "rentals": 5870
+    },
+    {
+      "date": "2012-07-21",
+      "observed_hours": 24,
+      "rentals": 4459
+    },
+    {
+      "date": "2012-07-22",
+      "observed_hours": 24,
+      "rentals": 7410
+    },
+    {
+      "date": "2012-07-23",
+      "observed_hours": 24,
+      "rentals": 6966
+    },
+    {
+      "date": "2012-07-24",
+      "observed_hours": 24,
+      "rentals": 7592
+    },
+    {
+      "date": "2012-07-25",
+      "observed_hours": 24,
+      "rentals": 8173
+    },
+    {
+      "date": "2012-07-26",
+      "observed_hours": 24,
+      "rentals": 6861
+    },
+    {
+      "date": "2012-07-27",
+      "observed_hours": 24,
+      "rentals": 6904
+    },
+    {
+      "date": "2012-07-28",
+      "observed_hours": 24,
+      "rentals": 6685
+    },
+    {
+      "date": "2012-07-29",
+      "observed_hours": 24,
+      "rentals": 6597
+    },
+    {
+      "date": "2012-07-30",
+      "observed_hours": 24,
+      "rentals": 7105
+    },
+    {
+      "date": "2012-07-31",
+      "observed_hours": 24,
+      "rentals": 7216
+    },
+    {
+      "date": "2012-08-01",
+      "observed_hours": 24,
+      "rentals": 7580
+    },
+    {
+      "date": "2012-08-02",
+      "observed_hours": 24,
+      "rentals": 7261
+    },
+    {
+      "date": "2012-08-03",
+      "observed_hours": 24,
+      "rentals": 7175
+    },
+    {
+      "date": "2012-08-04",
+      "observed_hours": 24,
+      "rentals": 6824
+    },
+    {
+      "date": "2012-08-05",
+      "observed_hours": 24,
+      "rentals": 5464
+    },
+    {
+      "date": "2012-08-06",
+      "observed_hours": 24,
+      "rentals": 7013
+    },
+    {
+      "date": "2012-08-07",
+      "observed_hours": 24,
+      "rentals": 7273
+    },
+    {
+      "date": "2012-08-08",
+      "observed_hours": 24,
+      "rentals": 7534
+    },
+    {
+      "date": "2012-08-09",
+      "observed_hours": 24,
+      "rentals": 7286
+    },
+    {
+      "date": "2012-08-10",
+      "observed_hours": 24,
+      "rentals": 5786
+    },
+    {
+      "date": "2012-08-11",
+      "observed_hours": 24,
+      "rentals": 6299
+    },
+    {
+      "date": "2012-08-12",
+      "observed_hours": 24,
+      "rentals": 6544
+    },
+    {
+      "date": "2012-08-13",
+      "observed_hours": 24,
+      "rentals": 6883
+    },
+    {
+      "date": "2012-08-14",
+      "observed_hours": 24,
+      "rentals": 6784
+    },
+    {
+      "date": "2012-08-15",
+      "observed_hours": 24,
+      "rentals": 7347
+    },
+    {
+      "date": "2012-08-16",
+      "observed_hours": 24,
+      "rentals": 7605
+    },
+    {
+      "date": "2012-08-17",
+      "observed_hours": 24,
+      "rentals": 7148
+    },
+    {
+      "date": "2012-08-18",
+      "observed_hours": 24,
+      "rentals": 7865
+    },
+    {
+      "date": "2012-08-19",
+      "observed_hours": 24,
+      "rentals": 4549
+    },
+    {
+      "date": "2012-08-20",
+      "observed_hours": 24,
+      "rentals": 6530
+    },
+    {
+      "date": "2012-08-21",
+      "observed_hours": 24,
+      "rentals": 7006
+    },
+    {
+      "date": "2012-08-22",
+      "observed_hours": 24,
+      "rentals": 7375
+    },
+    {
+      "date": "2012-08-23",
+      "observed_hours": 24,
+      "rentals": 7765
+    },
+    {
+      "date": "2012-08-24",
+      "observed_hours": 24,
+      "rentals": 7582
+    },
+    {
+      "date": "2012-08-25",
+      "observed_hours": 24,
+      "rentals": 6053
+    },
+    {
+      "date": "2012-08-26",
+      "observed_hours": 24,
+      "rentals": 5255
+    },
+    {
+      "date": "2012-08-27",
+      "observed_hours": 24,
+      "rentals": 6917
+    },
+    {
+      "date": "2012-08-28",
+      "observed_hours": 24,
+      "rentals": 7040
+    },
+    {
+      "date": "2012-08-29",
+      "observed_hours": 24,
+      "rentals": 7697
+    },
+    {
+      "date": "2012-08-30",
+      "observed_hours": 24,
+      "rentals": 7713
+    },
+    {
+      "date": "2012-08-31",
+      "observed_hours": 24,
+      "rentals": 7350
+    },
+    {
+      "date": "2012-09-01",
+      "observed_hours": 24,
+      "rentals": 6140
+    },
+    {
+      "date": "2012-09-02",
+      "observed_hours": 24,
+      "rentals": 5810
+    },
+    {
+      "date": "2012-09-03",
+      "observed_hours": 24,
+      "rentals": 6034
+    },
+    {
+      "date": "2012-09-04",
+      "observed_hours": 24,
+      "rentals": 6864
+    },
+    {
+      "date": "2012-09-05",
+      "observed_hours": 24,
+      "rentals": 7112
+    },
+    {
+      "date": "2012-09-06",
+      "observed_hours": 24,
+      "rentals": 6203
+    },
+    {
+      "date": "2012-09-07",
+      "observed_hours": 24,
+      "rentals": 7504
+    },
+    {
+      "date": "2012-09-08",
+      "observed_hours": 24,
+      "rentals": 5976
+    },
+    {
+      "date": "2012-09-09",
+      "observed_hours": 24,
+      "rentals": 8227
+    },
+    {
+      "date": "2012-09-10",
+      "observed_hours": 24,
+      "rentals": 7525
+    },
+    {
+      "date": "2012-09-11",
+      "observed_hours": 24,
+      "rentals": 7767
+    },
+    {
+      "date": "2012-09-12",
+      "observed_hours": 24,
+      "rentals": 7870
+    },
+    {
+      "date": "2012-09-13",
+      "observed_hours": 24,
+      "rentals": 7804
+    },
+    {
+      "date": "2012-09-14",
+      "observed_hours": 24,
+      "rentals": 8009
+    },
+    {
+      "date": "2012-09-15",
+      "observed_hours": 24,
+      "rentals": 8714
+    },
+    {
+      "date": "2012-09-16",
+      "observed_hours": 24,
+      "rentals": 7333
+    },
+    {
+      "date": "2012-09-17",
+      "observed_hours": 24,
+      "rentals": 6869
+    },
+    {
+      "date": "2012-09-18",
+      "observed_hours": 24,
+      "rentals": 4073
+    },
+    {
+      "date": "2012-09-19",
+      "observed_hours": 24,
+      "rentals": 7591
+    },
+    {
+      "date": "2012-09-20",
+      "observed_hours": 24,
+      "rentals": 7720
+    },
+    {
+      "date": "2012-09-21",
+      "observed_hours": 24,
+      "rentals": 8167
+    },
+    {
+      "date": "2012-09-22",
+      "observed_hours": 24,
+      "rentals": 8395
+    },
+    {
+      "date": "2012-09-23",
+      "observed_hours": 24,
+      "rentals": 7907
+    },
+    {
+      "date": "2012-09-24",
+      "observed_hours": 24,
+      "rentals": 7436
+    },
+    {
+      "date": "2012-09-25",
+      "observed_hours": 24,
+      "rentals": 7538
+    },
+    {
+      "date": "2012-09-26",
+      "observed_hours": 24,
+      "rentals": 7733
+    },
+    {
+      "date": "2012-09-27",
+      "observed_hours": 24,
+      "rentals": 7393
+    },
+    {
+      "date": "2012-09-28",
+      "observed_hours": 24,
+      "rentals": 7415
+    },
+    {
+      "date": "2012-09-29",
+      "observed_hours": 24,
+      "rentals": 8555
+    },
+    {
+      "date": "2012-09-30",
+      "observed_hours": 24,
+      "rentals": 6889
+    },
+    {
+      "date": "2012-10-01",
+      "observed_hours": 24,
+      "rentals": 6778
+    },
+    {
+      "date": "2012-10-02",
+      "observed_hours": 24,
+      "rentals": 4639
+    },
+    {
+      "date": "2012-10-03",
+      "observed_hours": 24,
+      "rentals": 7572
+    },
+    {
+      "date": "2012-10-04",
+      "observed_hours": 24,
+      "rentals": 7328
+    },
+    {
+      "date": "2012-10-05",
+      "observed_hours": 24,
+      "rentals": 8156
+    },
+    {
+      "date": "2012-10-06",
+      "observed_hours": 24,
+      "rentals": 7965
+    },
+    {
+      "date": "2012-10-07",
+      "observed_hours": 24,
+      "rentals": 3510
+    },
+    {
+      "date": "2012-10-08",
+      "observed_hours": 24,
+      "rentals": 5478
+    },
+    {
+      "date": "2012-10-09",
+      "observed_hours": 24,
+      "rentals": 6392
+    },
+    {
+      "date": "2012-10-10",
+      "observed_hours": 24,
+      "rentals": 7691
+    },
+    {
+      "date": "2012-10-11",
+      "observed_hours": 24,
+      "rentals": 7570
+    },
+    {
+      "date": "2012-10-12",
+      "observed_hours": 24,
+      "rentals": 7282
+    },
+    {
+      "date": "2012-10-13",
+      "observed_hours": 24,
+      "rentals": 7109
+    },
+    {
+      "date": "2012-10-14",
+      "observed_hours": 24,
+      "rentals": 6639
+    },
+    {
+      "date": "2012-10-15",
+      "observed_hours": 24,
+      "rentals": 5875
+    },
+    {
+      "date": "2012-10-16",
+      "observed_hours": 24,
+      "rentals": 7534
+    },
+    {
+      "date": "2012-10-17",
+      "observed_hours": 24,
+      "rentals": 7461
+    },
+    {
+      "date": "2012-10-18",
+      "observed_hours": 24,
+      "rentals": 7509
+    },
+    {
+      "date": "2012-10-19",
+      "observed_hours": 24,
+      "rentals": 5424
+    },
+    {
+      "date": "2012-10-20",
+      "observed_hours": 24,
+      "rentals": 8090
+    },
+    {
+      "date": "2012-10-21",
+      "observed_hours": 24,
+      "rentals": 6824
+    },
+    {
+      "date": "2012-10-22",
+      "observed_hours": 24,
+      "rentals": 7058
+    },
+    {
+      "date": "2012-10-23",
+      "observed_hours": 24,
+      "rentals": 7466
+    },
+    {
+      "date": "2012-10-24",
+      "observed_hours": 24,
+      "rentals": 7693
+    },
+    {
+      "date": "2012-10-25",
+      "observed_hours": 24,
+      "rentals": 7359
+    },
+    {
+      "date": "2012-10-26",
+      "observed_hours": 24,
+      "rentals": 7444
+    },
+    {
+      "date": "2012-10-27",
+      "observed_hours": 24,
+      "rentals": 7852
+    },
+    {
+      "date": "2012-10-28",
+      "observed_hours": 24,
+      "rentals": 4459
+    },
+    {
+      "date": "2012-10-29",
+      "observed_hours": 1,
+      "rentals": 22
+    },
+    {
+      "date": "2012-10-30",
+      "observed_hours": 11,
+      "rentals": 1096
+    },
+    {
+      "date": "2012-10-31",
+      "observed_hours": 24,
+      "rentals": 5566
+    },
+    {
+      "date": "2012-11-01",
+      "observed_hours": 24,
+      "rentals": 5986
+    },
+    {
+      "date": "2012-11-02",
+      "observed_hours": 24,
+      "rentals": 5847
+    },
+    {
+      "date": "2012-11-03",
+      "observed_hours": 24,
+      "rentals": 5138
+    },
+    {
+      "date": "2012-11-04",
+      "observed_hours": 24,
+      "rentals": 5107
+    },
+    {
+      "date": "2012-11-05",
+      "observed_hours": 24,
+      "rentals": 5259
+    },
+    {
+      "date": "2012-11-06",
+      "observed_hours": 24,
+      "rentals": 5686
+    },
+    {
+      "date": "2012-11-07",
+      "observed_hours": 24,
+      "rentals": 5035
+    },
+    {
+      "date": "2012-11-08",
+      "observed_hours": 23,
+      "rentals": 5315
+    },
+    {
+      "date": "2012-11-09",
+      "observed_hours": 24,
+      "rentals": 5992
+    },
+    {
+      "date": "2012-11-10",
+      "observed_hours": 24,
+      "rentals": 6536
+    },
+    {
+      "date": "2012-11-11",
+      "observed_hours": 24,
+      "rentals": 6852
+    },
+    {
+      "date": "2012-11-12",
+      "observed_hours": 24,
+      "rentals": 6269
+    },
+    {
+      "date": "2012-11-13",
+      "observed_hours": 24,
+      "rentals": 4094
+    },
+    {
+      "date": "2012-11-14",
+      "observed_hours": 24,
+      "rentals": 5495
+    },
+    {
+      "date": "2012-11-15",
+      "observed_hours": 24,
+      "rentals": 5445
+    },
+    {
+      "date": "2012-11-16",
+      "observed_hours": 24,
+      "rentals": 5698
+    },
+    {
+      "date": "2012-11-17",
+      "observed_hours": 24,
+      "rentals": 5629
+    },
+    {
+      "date": "2012-11-18",
+      "observed_hours": 24,
+      "rentals": 4669
+    },
+    {
+      "date": "2012-11-19",
+      "observed_hours": 24,
+      "rentals": 5499
+    },
+    {
+      "date": "2012-11-20",
+      "observed_hours": 24,
+      "rentals": 5634
+    },
+    {
+      "date": "2012-11-21",
+      "observed_hours": 24,
+      "rentals": 5146
+    },
+    {
+      "date": "2012-11-22",
+      "observed_hours": 24,
+      "rentals": 2425
+    },
+    {
+      "date": "2012-11-23",
+      "observed_hours": 24,
+      "rentals": 3910
+    },
+    {
+      "date": "2012-11-24",
+      "observed_hours": 24,
+      "rentals": 2277
+    },
+    {
+      "date": "2012-11-25",
+      "observed_hours": 24,
+      "rentals": 2424
+    },
+    {
+      "date": "2012-11-26",
+      "observed_hours": 24,
+      "rentals": 5087
+    },
+    {
+      "date": "2012-11-27",
+      "observed_hours": 24,
+      "rentals": 3959
+    },
+    {
+      "date": "2012-11-28",
+      "observed_hours": 24,
+      "rentals": 5260
+    },
+    {
+      "date": "2012-11-29",
+      "observed_hours": 23,
+      "rentals": 5323
+    },
+    {
+      "date": "2012-11-30",
+      "observed_hours": 24,
+      "rentals": 5668
+    },
+    {
+      "date": "2012-12-01",
+      "observed_hours": 24,
+      "rentals": 5191
+    },
+    {
+      "date": "2012-12-02",
+      "observed_hours": 24,
+      "rentals": 4649
+    },
+    {
+      "date": "2012-12-03",
+      "observed_hours": 24,
+      "rentals": 6234
+    },
+    {
+      "date": "2012-12-04",
+      "observed_hours": 24,
+      "rentals": 6606
+    },
+    {
+      "date": "2012-12-05",
+      "observed_hours": 24,
+      "rentals": 5729
+    },
+    {
+      "date": "2012-12-06",
+      "observed_hours": 24,
+      "rentals": 5375
+    },
+    {
+      "date": "2012-12-07",
+      "observed_hours": 24,
+      "rentals": 5008
+    },
+    {
+      "date": "2012-12-08",
+      "observed_hours": 24,
+      "rentals": 5582
+    },
+    {
+      "date": "2012-12-09",
+      "observed_hours": 24,
+      "rentals": 3228
+    },
+    {
+      "date": "2012-12-10",
+      "observed_hours": 24,
+      "rentals": 5170
+    },
+    {
+      "date": "2012-12-11",
+      "observed_hours": 24,
+      "rentals": 5501
+    },
+    {
+      "date": "2012-12-12",
+      "observed_hours": 24,
+      "rentals": 5319
+    },
+    {
+      "date": "2012-12-13",
+      "observed_hours": 24,
+      "rentals": 5532
+    },
+    {
+      "date": "2012-12-14",
+      "observed_hours": 24,
+      "rentals": 5611
+    },
+    {
+      "date": "2012-12-15",
+      "observed_hours": 24,
+      "rentals": 5047
+    },
+    {
+      "date": "2012-12-16",
+      "observed_hours": 24,
+      "rentals": 3786
+    },
+    {
+      "date": "2012-12-17",
+      "observed_hours": 24,
+      "rentals": 4585
+    },
+    {
+      "date": "2012-12-18",
+      "observed_hours": 24,
+      "rentals": 5557
+    },
+    {
+      "date": "2012-12-19",
+      "observed_hours": 24,
+      "rentals": 5267
+    },
+    {
+      "date": "2012-12-20",
+      "observed_hours": 24,
+      "rentals": 4128
+    },
+    {
+      "date": "2012-12-21",
+      "observed_hours": 24,
+      "rentals": 3623
+    },
+    {
+      "date": "2012-12-22",
+      "observed_hours": 24,
+      "rentals": 1749
+    },
+    {
+      "date": "2012-12-23",
+      "observed_hours": 24,
+      "rentals": 1787
+    },
+    {
+      "date": "2012-12-24",
+      "observed_hours": 23,
+      "rentals": 920
+    },
+    {
+      "date": "2012-12-25",
+      "observed_hours": 23,
+      "rentals": 1013
+    },
+    {
+      "date": "2012-12-26",
+      "observed_hours": 24,
+      "rentals": 441
+    },
+    {
+      "date": "2012-12-27",
+      "observed_hours": 24,
+      "rentals": 2114
+    },
+    {
+      "date": "2012-12-28",
+      "observed_hours": 24,
+      "rentals": 3095
+    },
+    {
+      "date": "2012-12-29",
+      "observed_hours": 24,
+      "rentals": 1341
+    },
+    {
+      "date": "2012-12-30",
+      "observed_hours": 24,
+      "rentals": 1796
+    },
+    {
+      "date": "2012-12-31",
+      "observed_hours": 24,
+      "rentals": 2729
+    }
+  ],
+  "elapsed_seconds": 0.14468
+}

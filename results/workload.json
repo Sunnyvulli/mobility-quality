@@ -1,0 +1,34 @@
+{
+  "recorded_at_utc": "2026-10-19T05:54:37.832607+00:00",
+  "scope": "Local historical batch replay; not live traffic or cloud operation",
+  "python": "3.12.14",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "source_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "repeats": 5,
+  "rows_per_batch": 17379,
+  "fresh_load_seconds": [
+    0.17307893699944543,
+    0.17580799400002434,
+    0.16830818099970202,
+    0.22097909900003287,
+    0.19397312899945973
+  ],
+  "cached_replay_seconds": [
+    0.12347614800000883,
+    0.11492309900040709,
+    0.12187246600024082,
+    0.12175954600024852,
+    0.12458107699967513
+  ],
+  "median_fresh_rows_per_second": 98852.16027206132,
+  "verified": [
+    "deterministic replay",
+    "invalid-schema snapshot preservation"
+  ],
+  "limitations": [
+    "Same historical input repeated; no new independent observations",
+    "Single process, local disk, whole-file memory use",
+    "Cached replay still parses and validates the entire input",
+    "No concurrency, network latency, cloud cost, or uptime measurement"
+  ]
+}
