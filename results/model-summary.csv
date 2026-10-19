@@ -1,0 +1,7 @@
+split,model,mae_mean,mae_sd,rmse_mean
+chronological,forest,45.687,0.168,70.723
+chronological,leakage_positive_control,2.414,0.048,8.477
+chronological,mean,174.985,0.0,232.608
+random,forest,26.034,0.406,44.067
+random,leakage_positive_control,0.937,0.047,2.634
+random,mean,142.566,0.833,180.843

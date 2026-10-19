@@ -1,0 +1,15 @@
+make: Entering directory '/workspace/scratch/acd66fe6a478/mobility-quality'
+python3 scripts/run_demo.py
+{"source_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f", "input_rows": 17379, "accepted_rows": 17379, "rejected_rows": 0, "reason_counts": {}, "observed_days": 731, "missing_hours_in_observed_days": 165, "rentals": 3292679, "elapsed_seconds": 0.162283}
+cached: False
+{"accepted_rows": 17379, "elapsed_seconds": 0.162283, "input_rows": 17379, "missing_hours_in_observed_days": 165, "observed_days": 731, "reason_counts": {}, "rejected_rows": 0, "rentals": 3292679, "source_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f"}
+cached: True
+{
+  "status": "passed",
+  "accepted_rows": 17379,
+  "rentals": 3292679,
+  "tests": 13,
+  "elapsed_seconds": 4.68,
+  "python": "3.12.14"
+}
+make: Leaving directory '/workspace/scratch/acd66fe6a478/mobility-quality'

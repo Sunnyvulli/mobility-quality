@@ -1,0 +1,205 @@
+{
+  "protocol": "Online one-hour-ahead comparison, models refreshed at each 28-day fold boundary; observed seven-day-old counts available during each test window",
+  "features": [
+    "season",
+    "yr",
+    "mnth",
+    "hr",
+    "holiday",
+    "weekday",
+    "workingday"
+  ],
+  "source_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "sklearn": "1.8.0",
+  "seeds": [
+    11,
+    23,
+    37
+  ],
+  "folds": [
+    {
+      "start": "2012-04-01",
+      "end_exclusive": "2012-04-29T00:00:00",
+      "train_max": "2012-03-31T23:00:00",
+      "train_rows": 10821,
+      "test_rows": 670,
+      "test_days": 28,
+      "weekly_lag_fallbacks": 2
+    },
+    {
+      "start": "2012-07-01",
+      "end_exclusive": "2012-07-29T00:00:00",
+      "train_max": "2012-06-30T23:00:00",
+      "train_rows": 13003,
+      "test_rows": 672,
+      "test_days": 28,
+      "weekly_lag_fallbacks": 0
+    },
+    {
+      "start": "2012-10-01",
+      "end_exclusive": "2012-10-29T00:00:00",
+      "train_max": "2012-09-30T23:00:00",
+      "train_rows": 15211,
+      "test_rows": 672,
+      "test_days": 28,
+      "weekly_lag_fallbacks": 0
+    }
+  ],
+  "metrics": [
+    {
+      "start": "2012-04-01",
+      "model": "calendar_forest",
+      "seed": 11,
+      "rows": 670,
+      "mae": 56.27385518233602,
+      "rmse": 92.11564737429583
+    },
+    {
+      "start": "2012-04-01",
+      "model": "calendar_forest",
+      "seed": 23,
+      "rows": 670,
+      "mae": 56.2199586996406,
+      "rmse": 92.07771627330334
+    },
+    {
+      "start": "2012-04-01",
+      "model": "calendar_forest",
+      "seed": 37,
+      "rows": 670,
+      "mae": 56.4900935532298,
+      "rmse": 93.07203296943216
+    },
+    {
+      "start": "2012-04-01",
+      "model": "train_mean",
+      "seed": null,
+      "rows": 670,
+      "mae": 176.22479589852236,
+      "rmse": 230.2347306686805
+    },
+    {
+      "start": "2012-04-01",
+      "model": "weekly_lag_online",
+      "seed": null,
+      "rows": 670,
+      "mae": 62.33580126835141,
+      "rmse": 104.32293076744072
+    },
+    {
+      "start": "2012-07-01",
+      "model": "calendar_forest",
+      "seed": 11,
+      "rows": 672,
+      "mae": 45.80974028333532,
+      "rmse": 70.48020501528246
+    },
+    {
+      "start": "2012-07-01",
+      "model": "calendar_forest",
+      "seed": 23,
+      "rows": 672,
+      "mae": 45.72491712645833,
+      "rmse": 70.20069503240313
+    },
+    {
+      "start": "2012-07-01",
+      "model": "calendar_forest",
+      "seed": 37,
+      "rows": 672,
+      "mae": 45.340782066250235,
+      "rmse": 70.6307023661279
+    },
+    {
+      "start": "2012-07-01",
+      "model": "train_mean",
+      "seed": null,
+      "rows": 672,
+      "mae": 180.42690915191736,
+      "rmse": 236.0703979790926
+    },
+    {
+      "start": "2012-07-01",
+      "model": "weekly_lag_online",
+      "seed": null,
+      "rows": 672,
+      "mae": 67.6235119047619,
+      "rmse": 106.0935472769646
+    },
+    {
+      "start": "2012-10-01",
+      "model": "calendar_forest",
+      "seed": 11,
+      "rows": 672,
+      "mae": 46.94601382481654,
+      "rmse": 88.0297999365151
+    },
+    {
+      "start": "2012-10-01",
+      "model": "calendar_forest",
+      "seed": 23,
+      "rows": 672,
+      "mae": 47.35574083601531,
+      "rmse": 88.47099783481333
+    },
+    {
+      "start": "2012-10-01",
+      "model": "calendar_forest",
+      "seed": 37,
+      "rows": 672,
+      "mae": 47.78731613666363,
+      "rmse": 88.80311059306598
+    },
+    {
+      "start": "2012-10-01",
+      "model": "train_mean",
+      "seed": null,
+      "rows": 672,
+      "mae": 195.99103004639497,
+      "rmse": 258.8982580749054
+    },
+    {
+      "start": "2012-10-01",
+      "model": "weekly_lag_online",
+      "seed": null,
+      "rows": 672,
+      "mae": 62.12797619047619,
+      "rmse": 105.86954292452394
+    }
+  ],
+  "summary": [
+    {
+      "model": "calendar_forest",
+      "weighted_mae": 49.765536061801846,
+      "weighted_rmse": 84.30093882809226,
+      "runs": 9
+    },
+    {
+      "model": "train_mean",
+      "weighted_mae": 184.22217894402974,
+      "weighted_rmse": 242.0621112751935,
+      "runs": 3
+    },
+    {
+      "model": "weekly_lag_online",
+      "weighted_mae": 64.03077797904442,
+      "weighted_rmse": 105.43270773383674,
+      "runs": 3
+    }
+  ],
+  "daily_bootstrap": {
+    "unit": "observed day, equally weighted across folds",
+    "days": 84,
+    "replicates": 2000,
+    "seed": 101,
+    "mean_difference_forest_minus_weekly": -14.268593545086063,
+    "percentile_95_interval": [
+      -22.513234254126623,
+      -6.596219152678009
+    ],
+    "limitation": "Exploratory interval assumes exchangeable days; temporal dependence and overlapping training windows are not modeled"
+  }
+}
