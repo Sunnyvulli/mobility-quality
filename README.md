@@ -51,7 +51,7 @@ Hashing and parsing use the same captured bytes. Repeated active input is cached
 docker compose up --build --wait
 ```
 
-The image builds the real-data snapshot and runs the tests; the API runs as UID 10001. Compose publishes only to host loopback, makes the filesystem read-only, drops capabilities and supplies temporary scratch space. Stop with `docker compose down`. The standalone CI must pass its actual image/HTTP/non-root tests before this import is called verified. A container is not an AWS deployment.
+The image builds the real-data snapshot and runs the tests; the API runs as UID 10001. Compose publishes only to host loopback, makes the filesystem read-only, drops capabilities and supplies temporary scratch space. Stop with `docker compose down`. Standalone CI passed its actual image/HTTP/non-root tests and independent evaluation checks. A container is not an AWS deployment.
 
 ## Failure analysis and limits
 

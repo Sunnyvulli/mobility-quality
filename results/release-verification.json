@@ -1,0 +1,23 @@
+{
+  "verified_on": "2026-10-19",
+  "source_commit": "9dfd32d97760caf3b4665e935d49013f94bb0fe6",
+  "scope": "Executed main CI verified before v0.1.0 release preparation; code and raw metrics are unchanged by packaging.",
+  "checks": [
+    {
+      "name": "history-scan",
+      "conclusion": "success",
+      "url": "https://github.com/Sunnyvulli/mobility-quality/actions/runs/39305393228/job/118240994198"
+    },
+    {
+      "name": "container",
+      "conclusion": "success",
+      "url": "https://github.com/Sunnyvulli/mobility-quality/actions/runs/39305393228/job/118240993643"
+    },
+    {
+      "name": "verify",
+      "conclusion": "success",
+      "url": "https://github.com/Sunnyvulli/mobility-quality/actions/runs/39305393242/job/118240992697"
+    }
+  ],
+  "release_status": "Version content prepared; GitHub release/tag is authoritative for publication."
+}
